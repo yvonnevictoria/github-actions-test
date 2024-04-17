@@ -8,5 +8,6 @@ deployments:
       - "*-test"
     staging:
       - "stage"
+      - "pre-prod"
     production:
       - "prod"
