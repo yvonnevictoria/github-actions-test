@@ -9,5 +9,8 @@ deployments:
     staging:
       - "stage"
       - "pre-prod"
+      - "stage2"
+      - "pre-prod1"
+      - "stage1"
     production:
       - "prod"
